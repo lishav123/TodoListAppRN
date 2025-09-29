@@ -55,7 +55,7 @@ A simple and modern Todo List application built with React Native and Expo. This
 
 ## Credits
 
-- Built by following the [30-hour Expo Bootcamp](https://www.youtube.com/watch?v=q3HE1dFiJBI&t=3421s) (add actual link)
+- Built by following the [30-hour Expo Bootcamp](https://www.youtube.com/watch?v=q3HE1dFiJBI&t=3421s)
 - Powered by [Expo](https://expo.dev/) and [React Native](https://reactnative.dev/)
 
 Happy coding! 🚀
