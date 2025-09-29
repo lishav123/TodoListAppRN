@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+# Todo List App (React Native + Expo)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple and modern Todo List application built with React Native and Expo. This project is inspired by a 30-hour Expo bootcamp video tutorial and serves as a practical learning project. Now open-sourced on GitHub!
 
-## Get started
+## What I'm Learning
 
-1. Install dependencies
+- React Native fundamentals (components, props, state)
+- Expo CLI and workflow
+- File-based routing in Expo
+- State management in React Native
+- Handling user input and forms
+- List rendering and key extraction
+- AsyncStorage for local persistence
+- Navigation (React Navigation basics)
+- Styling with StyleSheet and Flexbox
+- Debugging and hot reloading
+- Best practices for mobile UI/UX
+
+## Features
+
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Persistent storage (local)
+- Clean and intuitive UI
+
+## Getting Started
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/lishav123/TodoListApp.git
+   cd TodoListApp
+   ```
+
+2. **Install dependencies**
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. **Start the app**
 
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+4. **Run on your device or emulator**
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+   - Use the QR code in Expo Go (Android/iOS)
+   - Or run on an emulator/simulator
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Folder Structure
 
-## Get a fresh project
+- `/app` - Main application code
 
-When you're ready, run:
+## Credits
 
-```bash
-npm run reset-project
-```
+- Built by following the [30-hour Expo Bootcamp](https://www.youtube.com/watch?v=q3HE1dFiJBI&t=3421s) (add actual link)
+- Powered by [Expo](https://expo.dev/) and [React Native](https://reactnative.dev/)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Happy coding! 🚀
